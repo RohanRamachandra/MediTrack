@@ -1,0 +1,20 @@
+# Java
+*.class
+*.jar
+*.war
+target/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Gradle / Maven
+.gradle/
+mvnw
+mvnw.cmd
