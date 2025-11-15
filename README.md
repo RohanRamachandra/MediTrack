@@ -36,6 +36,10 @@ Java-based AGV simulation for automating medicine delivery in hospitals. Include
 - Battery Logic: AGVs auto-charge when ≤30% battery
 
 - Logging: All events captured in the UI for traceability
+# Extras
+- Find the documentation, presentation and video explanation of the project here.
+- https://drive.google.com/drive/folders/1Ijsb0VHFEqS7zT4oEAw2SDj0iM3Q1ipf?usp=drive_link
+
 # Screenshots
 ![109e7735-ad5b-45b1-bfab-fb11cab32694](https://github.com/user-attachments/assets/9b1aa028-4ec6-4f2a-bd8b-3f2019c33afa)
 ![90dd9369-9214-4594-9e6a-7a434e8292c7](https://github.com/user-attachments/assets/9bb98ef8-5628-4e16-96cd-2ce022479ab3)
